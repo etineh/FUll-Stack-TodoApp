@@ -1,0 +1,44 @@
+span:hover {
+    background-color: #eee;
+}
+span.delete {
+    cursor: pointer;    
+    
+    float: right;
+    padding: 0 5px;
+    font-size: 30px;
+}
+.sub {
+    padding: 10px 20px; 
+    color: white; 
+    border-radius: 10px; 
+    background-color: purple;
+    cursor: pointer;
+}
+.tex {
+    margin: 0 0 10px 0; 
+    padding: 10px 40% 10px 10px; 
+    border-radius: 20px
+}
+
+.textD {
+    margin: 0 0 10px 0; 
+    padding: 10px 0 10px 10px; 
+    border-radius: 10px
+}
+
+.item {
+    font-size: 20px;
+    margin-bottom: 10px;
+    background-color: bisque;
+    padding: 20px 2%;
+}
+button.del {
+    float: right;
+    padding: 8px 15px; 
+    color: white; 
+    border-radius: 10px; 
+    border-right-color: white;
+    background-color: blueviolet;
+    cursor: pointer;
+}
